@@ -16,7 +16,7 @@
     "https": "^1.0.0",
     "mongoose": "^5.3.14",
     "nodemon": "^1.18.7",
-    "npm": "^6.4.1",
+    "npm": "^6.13.4",
     "path": "^0.12.7",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
